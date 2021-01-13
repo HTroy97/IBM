@@ -1,0 +1,67 @@
+Cloud computing
+Module 1
+	Concept
+	5 characteristics:
+	
+
+	3 deployment models:
+		Public, Private, Hybrid
+	3 service models:
+		3 layers in computer stack: Infrastructure(IaaS), Platform(PaaS), Application(SaaS)
+
+History of Cloud Computing
+	Pay as you go
+
+Key Considerations for Cloud Computing
+	Agility, Competitiveness, Flexibility
+	
+Service Providers and their services
+
+Module 2
+Cloud adoption
+Cloud adoption examples
+IoT in the Cloud
+Artificial Intelligence on the cloud
+Blockchain and Analytics on the Cloud
+
+Module 3
+Service Models
+Infrastructure as a Service
+Platform as a Service
+Software as a Service
+Public Cloud
+Private Cloud
+Hybrid Cloud
+
+Module 4
+Overview of cloud Computing
+Virtualization
+Types of Virtual Machines
+Bare metal machines
+Secure networking
+Containers
+
+Module 5
+Basics of Cloud Storage
+File Storage
+Block Storage
+Object Storage
+Object Storage - APIs and Tiers
+Content Delivery Network
+Public URL for index.hmtl object on cloud: https://cloud-object-storage-wp-cos-standard-8zl.s3.us-south.cloud-object-storage.appdomain.cloud/index.html
+
+Module 6
+Hybrid Multicloud
+Microservices
+Serverless Computing
+Cloud Native Apps
+DevOps
+App Modernization
+
+Module 7
+Cloud Security
+Identity and Access Management
+Cloud Encryption
+Cloud Monitoring basics and benefits
+Case studies in different industry verticals
+Career Opportunities and Job Roles in cloud computing
